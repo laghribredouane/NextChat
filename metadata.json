@@ -1,0 +1,6 @@
+{
+  "name": "NEXCHAT",
+  "description": "Next-Generation Instant Messaging Platform with end-to-end security, channels, status stories, voice notes, calls, and administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
